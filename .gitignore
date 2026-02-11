@@ -1,0 +1,13 @@
+# Object files
+*.o
+# Kernel binary
+kernel.bin
+# ISO output
+os.iso
+# Build directories
+iso/
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
